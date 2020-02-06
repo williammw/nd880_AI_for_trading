@@ -140,3 +140,75 @@ nearest_square = num**2
 
 print(nearest_square)
 ```
+
+Quiz break, Continue
+```python
+# HINT: modify the headlines list to verify your loop works with different inputs
+headlines = ["Local Bear Eaten by Man",
+             "Legislature Announces New Laws",
+             "Peasant Discovers Violence Inherent in System",
+             "Cat Rescues Fireman Stuck in Tree",
+             "Brave Knight Runs Away",
+             "Papperbok Review: Totally Triffic"]
+
+news_ticker = ""
+# write your loop here
+while len(news_ticker) < 140:
+    for headline in headlines:
+        news_ticker += headline + ' '
+        if len(news_ticker) > 140:
+            news_ticker = news_ticker[:140]
+    
+
+
+#print('{} and len {}'.format(news_ticker, len(news_ticker)))
+print(news_ticker)
+```
+
+3\*4 to 4\*3 matrix
+```python
+data = ((0, 1, 2), (3, 4, 5), (6, 7, 8), (9, 10, 11))
+
+data_transpose = tuple(zip(*data))
+print(data_transpose)
+```
+
+enumerate
+```python
+cast = ["Barney Stinson", "Robin Scherbatsky", "Ted Mosby", "Lily Aldrin", "Marshall Eriksen"]
+heights = [72, 68, 72, 66, 76]
+
+for i, character in enumerate(cast):
+    cast[i] = character + " " + str(heights[i])
+
+print(cast)
+```
+
+Quiz: extract first names
+```python
+names = ["Rick Sanchez", "Morty Smith", "Summer Smith", "Jerry Smith", "Beth Smith"]
+
+first_names = [name.split(' ')[0] for name in names]# write your list comprehension here
+print(first_names)
+```
+
+Quiz Multiple of tree
+```python
+multiples_3 = [x * 3 for x in range(1, 21)]# write your list comprehension here
+print(multiples_3)
+```
+
+
+filter names
+```python
+scores = {
+             "Rick Sanchez": 70,
+             "Morty Smith": 35,
+             "Summer Smith": 82,
+             "Jerry Smith": 23,
+             "Beth Smith": 98
+          }
+
+passed = [name for name, score in scores.items() if score >= 65]
+print(passed)
+```
