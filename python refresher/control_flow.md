@@ -59,3 +59,38 @@ for object, count in basket_items.items():
 #print(basket_items.items())
 print("result {}".format(result))
 ```
+
+while loop :: factorials
+```python
+# number to find the factorial of
+number = 10
+
+# start with our product equal to one
+product = 1
+
+# track the current number being multiplied
+current = 1
+
+# write your while loop here
+while current < number:
+    
+    # multiply the product so far by the current number
+    product *= current 
+    current += 1
+    # increment current with each iteration until it reaches number
+
+print (product)
+
+```
+while for :: factorials
+```python
+# number to find the factorial of
+number = 6   
+# start with our product equal to one
+product = 1
+# write your for loop here
+for num in range(2,number + 1) :
+    product *= num
+# print the factorial of number
+print(product)
+```
