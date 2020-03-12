@@ -150,7 +150,7 @@ def does_data_match(obj_a, obj_b):
         obj_b = obj_b.sort_index()
         obj_a = obj_a.sort_index()
     try:
-        data_is_close = np.isclose(obj_b, obj_a, equal_nan=True)
+        data_is_close = np.isclose(obj_b, obj_a, equal_nan=True, rtol=1e-3, atol=1e-5)
     except TypeError:
         data_is_close = obj_b == obj_a
     else:
