@@ -6,3 +6,8 @@ ignore/
 *.css
 *.js.download
 *.download
+lessons/
+python refresher/
+www_template/
+stat.notes/
+data/

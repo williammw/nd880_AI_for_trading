@@ -1,8 +1,0 @@
-Getting Help
-
-As questions come up during your Nanodegree program, click on the “help” button on the left-hand side of your classroom. You’ll see four options, each for a separate type of support:
-
-Technical Mentor Support: is provided through our Knowledge platform. On Knowledge, you can search for answers to questions similar to yours or post new questions related to your project or lessons. Udacity’s expert technical mentors answer all-new questions.
-Peer Chat: is available through our Student Hub platform. In Student Hub, you can chat with other students in general community channels or trade technical tips and ideas in project-specific channels. To access Student Hub, click on the option for “Peer Chat.”
-Career Support: is available for all students and alumni and includes 1:1 Career Coaching sessions, expert feedback on your application materials profiles, and lessons on “How to Network Successfully” to “Rehearsing for Interviews” and more. Click on “Career Services” to get started.
-General Account Help: This is where you can get details on non-technical issues such as billing, deadlines, or reach out to our support team with specific questions. Just click on “Account Help” to get started.

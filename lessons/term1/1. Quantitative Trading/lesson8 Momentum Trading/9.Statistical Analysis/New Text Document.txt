@@ -1,5 +1,0 @@
-Statistics courses
-If you need to learn more about statistics, or brush up on some existing knowledge, check out Udacity's courses on Descriptive Statistics and Inferential Statistics.
-
-https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
-https://www.udacity.com/course/intro-to-inferential-statistics--ud201

@@ -1,2 +1,0 @@
-Common and Preferred Stock
-Note that for this Nanodegree program, when we discuss stocks, we’re primarily referring to common stock as opposed to preferred stock. This is because preferred stock actually behaves more like a bond (which we’ll cover next), so preferred stock prices may tend to be more stable relative to common stock of the same company. Usually when you see stock data and financial news, it’s referring to common stock.

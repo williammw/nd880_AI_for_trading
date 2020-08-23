@@ -1,5 +1,0 @@
-
-LESSON 10
-Quant Workflow
-Learn about the overall quant workflow, including alpha signal generation, alpha combination, portfolio optimization, and trading.
-

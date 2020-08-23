@@ -1,5 +1,0 @@
-
-LESSON 11
-Outliers and Filtering
-Learn the importance of outliers and how to detect them. Learn about methods designed to handle outliers.
-

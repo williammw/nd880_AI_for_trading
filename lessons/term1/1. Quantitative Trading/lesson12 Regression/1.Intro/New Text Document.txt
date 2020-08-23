@@ -1,2 +1,0 @@
-Note: Regarding the chart used to describe signal to noise. The horizontal x-axis of the chart is time, such as days. The vertical y-axis is price, such as dollars. The blue line represents the combined signal plus noise, which is the actually observed stock price movement. The red dashed line represents the signal without noise, which is not directly observable.
-

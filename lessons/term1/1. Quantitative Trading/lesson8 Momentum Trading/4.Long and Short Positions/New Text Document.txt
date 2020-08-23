@@ -1,8 +1,0 @@
-Portfolio
-A portfolio is a collection of investments held and/or managed by an investment company, hedge fund, financial institution or individual.
-
-Long
-A long (or long position) is the purchase of an asset under the expectation that the price of the asset will rise.
-
-Short
-A short (or short position) is the selling of an asset under the expectation that the price of the asset will decline. In practice, an investor profits from a short position by borrowing shares from a brokerage firm (agreeing to pay an interest rate as a fee), selling them on the open market, and later buying them back on the open market at a lower price and returning them to the brokerage firm.
