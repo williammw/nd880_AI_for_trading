@@ -1,0 +1,16 @@
+Trading Experiment
+Consider this:
+
+Experiment A: Randomly select a smattering of 100 stocks that are trading today, simulate buying them in 2005, or whenever they went public, investing equally in each, and hold on to them till the present day. Don’t try to apply any strategy, just pick stocks randomly!
+
+Experiment B: Randomly select another collection of 100 stocks, but this time, from those that were trading in 2005. Again, simulate buying them in 2005, investing uniformly, and hold on to them.
+
+Repeat these experiments multiple times and calculate the total return on your investment in each case. Now, would you expect the mean return for A to be significantly higher or lower than that of B? See if you can spot a clear difference.
+
+QUIZ QUESTION
+Would you expect the mean return for A to be significantly higher or lower than that of B?
+
+Mean return from A would be higher
+
+
+

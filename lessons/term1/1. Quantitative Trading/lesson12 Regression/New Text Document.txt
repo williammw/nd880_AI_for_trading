@@ -1,0 +1,5 @@
+
+LESSON 12
+Regression
+Learn about regression, and related statistical tools that pre-process data before regression analysis. See how regression relates to trading and other more advanced methods.
+

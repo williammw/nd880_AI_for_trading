@@ -1,0 +1,2 @@
+Probability Density Function (Clarification/Correction)
+Note that for discrete variables, a probability mass function gives a probability for each value. However, for a probability density function, which describes a continuous variable, the probability is defined as the area under the curve within a range (between two points). For a single point, the area under the curve is actually zero, which is why probabilities for continuous variables are defined within a range instead of a single point.

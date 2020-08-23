@@ -1,0 +1,5 @@
+
+LESSON 6
+Data Processing
+Learn how to adjust market data for corporate actions, include fundamental information in your analysis and compute technical indicators.
+

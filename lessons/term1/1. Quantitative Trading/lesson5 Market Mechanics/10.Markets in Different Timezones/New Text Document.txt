@@ -1,0 +1,1 @@
+Note on ADR: Foreign stocks are sometimes allowed to trade on a local stock exchange via an indirect method such as American Depository Receipts (ADR). These are instruments that represent the original stock in a different market.

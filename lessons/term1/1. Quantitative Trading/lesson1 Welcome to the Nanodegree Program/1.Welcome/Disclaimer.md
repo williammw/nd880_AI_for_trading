@@ -1,0 +1,4 @@
+Disclaimer
+The material on this Nanodegree Program is provided for educational purposes only and does not constitute investment advisory services by Udacity, WorldQuant or any other party associated with this educational program (“Parties”); additionally, the materials may not represent practices of any of the Parties.
+
+No materials or information contained in this program should be regarded as a suggestion to engage in or refrain from any investment-related course of action. The financial data, materials and information provided are prepared for educational and subject-matter instructional purposes only and are not intended to be used for investment or any other purposes; the Parties disclaim all warranties relating to their accuracy, completeness or fitness for any particular purpose than the informational and educational purposes herein.

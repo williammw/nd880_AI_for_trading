@@ -1,0 +1,1 @@
+Note : Tick data is sometimes referred to as heterogeneous data, since it is not sampled at regular time intervals, whereas Minute-level or End-of-Day data is called homogeneous. Converting heterogeneous data to a homogeneous form can be a good exercise!

@@ -1,0 +1,19 @@
+Getting Help
+
+Project Reviews
+
+When you submit your project, you will receive detailed feedback from a project Reviewer. Passing a project means that a Udacity Reviewer has marked your project as “Meets Specifications.” Sometimes, a Reviewer may ask you to resubmit a project in order to meet specifications. In that case you will also be provided with the changes that need to be made in order for you to pass the project. Note: you can submit a project as many times as needed in order to pass.
+
+Study Groups
+
+Using the Chat option, you will be able to get to know your fellow students, ask any questions you may have or answer other students’ questions. All students in your Chat group are taking the same Nanodegree as you are, and will be familiar with your dilemmas!
+
+Knowledge
+
+We’ll be participating in the Knowledge platform alongside you to help curate questions and guide discussions towards good answers. Here are a few tips to get the most out of Knowledge:
+
+Remember to search for an answer before posting a new question.
+Remember to upvote if you see your question has already been asked, especially if it doesn’t yet have an answer.
+If you’re the author of a question, you can accept a specific answer if it resolves your question. If you aren’t the author, you can still upvote the answer you find most helpful.
+When you write a new question, make sure to include all relevant details—tag a specific project if necessary.
+If you see a question that you think you know the answer to, answer it! (And don’t worry—there’s no penalty for being wrong about an answer.)
