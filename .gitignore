@@ -3,3 +3,6 @@ ignore/
 *.mp4
 *.js
 *.html
+*.css
+*.js.download
+*.download
