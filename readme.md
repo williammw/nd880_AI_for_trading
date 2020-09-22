@@ -10,3 +10,6 @@ https://answers.microsoft.com/en-us/windows/forum/all/microsoft-visual-c-140/6f0
 > 
 > ```install --upgrade pip setuptools```
 
+> (your-venv)$ pip install jupyter
+> (your-venv)$ ipython kernel install --name "local-venv" --user
+> jupyter kernelspec remove old_kernel
